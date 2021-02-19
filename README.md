@@ -2,15 +2,11 @@
 
 This repository is for me to store relevent files and links for my portfolio, it is being worked on during the current academic years (2020-2021) at the HEPL from Liège, Belgium.
 
-
-
 ## Links
 
-- [**moodboard**](https://app.milanote.com/1L7Wy11FwqDZ3n?p=aulnkmfwjkB) [(download)](#)
+- [**moodboard**](https://app.milanote.com/1L7Wy11FwqDZ3n?p=aulnkmfwjkB) (a backuped file version will be available on this repository)
 
-- [**design (placeholder)**](#)
-
-
+- ~~[**design**](#)~~
 
 ------------------------------------------------------------------------------------------------------------------------------
 
