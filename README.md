@@ -47,7 +47,7 @@ This repository is for me to store relevent files and links for my portfolio, it
 
 5. [**moodboard**](https://app.milanote.com/1L7Wy11FwqDZ3n?p=aulnkmfwjkB)
 
-6. ~~[**design**](#)~~ (not yet)
+6. [**design (wireframe)**](https://louis868026.invisionapp.com/freehand/Portfolio-wireframe-MM3e26OqN)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
