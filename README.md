@@ -6,7 +6,7 @@ This repository is for me to store relevent files and links for my portfolio, it
    
    thème : late café, chill, nice... bref, cet image d'un café que vous avez lorsque que vous écoutez de la musique "... to chill to."
    
-   style : couleurs chaudes/froides mais qui se raproche du ton mauve / **60s colors**
+   style : couleurs chaudes/froides mais qui se rapproche du ton mauve / **60s colors**
    
    - utilisation du Serif (pour les titres évidemment)
 
@@ -23,12 +23,19 @@ This repository is for me to store relevent files and links for my portfolio, it
 3. <u>Le contenu</u>
    
    - **PAS DE COULEURS TRÈS CLAIRE (comme le blanc) DE MANIÈRE À NE FAIRE MAL AUX YEUX DE PERSONNE.** (aussi parce que c'est ce que je préfère)
+   
    - **que ce soit clair:** le site doit donner la même ambiance que ces compilations de musiques avec des bruits de pluie.
+   
    - un fondu au noir.
+   
    - les éléments de la page (donc les textes, liens et tout ce qui n'est pas l'arrière plan) glissent dans la vue.
      
      ###### Plus explicitement :
-     - la vue avant la ligne de base devrait être minime avec seulement une phrase tout au plus. (idée: rendre la navigation quand même accessible si on place la souris sur le bord haut)
+     
+     - la vue avant la ligne de base devrait être minime avec seulement une (grande) phrase tout au plus. (idée: rendre la navigation quand même accessible si on place la souris sur le bord haut)
+     - clickables (comme la vignette d'un projet ou le formulaire de communication) ont une animation où la nouvelle page "slides over" et retourner en arrière nous ramène là où nous étions avant.
+   
+   - 
 
 4. <u>La stratégie</u>
    
